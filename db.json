@@ -1,0 +1,307 @@
+{
+  "team": [
+    {
+      "id": "adb33b47-eb58-46a5-b19d-c4ed530dc3dd",
+      "name": "bulbasaur",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "specialAttack": 65,
+      "specialDefense": 65,
+      "speed": 45
+    },
+    {
+      "id": "d9cfddf8-5c9d-47aa-a609-1b6f0498c1f8",
+      "name": "charmander",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "specialAttack": 60,
+      "specialDefense": 50,
+      "speed": 65
+    },
+    {
+      "id": "41debb64-9e80-40c4-845e-edf36dc53682",
+      "name": "charizard",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "specialAttack": 109,
+      "specialDefense": 85,
+      "speed": 100
+    }
+  ],
+  "favorites": [],
+  "battles": [
+    {
+      "id": "ae48",
+      "pokemon1": "pikachu",
+      "pokemon2": "abra",
+      "winner": "abra",
+      "date": "4/23/2025, 10:45:06 AM"
+    },
+    {
+      "id": "68b5",
+      "pokemon1": "pikachu",
+      "pokemon2": "abra",
+      "winner": "abra",
+      "date": "4/23/2025, 10:45:41 AM"
+    },
+    {
+      "id": "5637",
+      "pokemon1": "pikachu",
+      "pokemon2": "abra",
+      "winner": "abra",
+      "date": "4/23/2025, 10:45:43 AM"
+    },
+    {
+      "id": "9478",
+      "pokemon1": "pikachu",
+      "pokemon2": "abra",
+      "winner": "abra",
+      "date": "4/23/2025, 10:45:44 AM"
+    },
+    {
+      "id": "5028",
+      "pokemon1": "pikachu",
+      "pokemon2": "abra",
+      "winner": "abra",
+      "date": "4/23/2025, 10:45:52 AM"
+    },
+    {
+      "id": "c763",
+      "team1": [
+        "pikachu",
+        "abra"
+      ],
+      "team2": [
+        "charmander",
+        "aipom"
+      ],
+      "result": "It's a tie!",
+      "date": "4/23/2025, 10:49:50 AM"
+    },
+    {
+      "id": "72a0",
+      "team1": [
+        "pikachu",
+        "abra"
+      ],
+      "team2": [
+        "charmander",
+        "aipom"
+      ],
+      "result": "It's a tie!",
+      "date": "4/23/2025, 10:55:22 AM"
+    },
+    {
+      "id": "d54d",
+      "team1": [
+        "pikachu",
+        "abra"
+      ],
+      "team2": [
+        "charmander",
+        "aipom"
+      ],
+      "result": "It's a tie!",
+      "date": "4/23/2025, 11:01:12 AM"
+    },
+    {
+      "id": "7e35",
+      "team1": [
+        "pikachu",
+        "abra",
+        "charmander"
+      ],
+      "team2": [
+        "aipom",
+        "altaria"
+      ],
+      "result": "Team 2",
+      "date": "4/23/2025, 11:25:24 AM"
+    },
+    {
+      "id": "028e",
+      "team1": [
+        "charmander",
+        "aipom"
+      ],
+      "team2": [
+        "altaria",
+        "pikachu"
+      ],
+      "result": "It's a tie!",
+      "date": "4/25/2025, 4:58:20 AM"
+    },
+    {
+      "id": "242b",
+      "team1": [
+        "charmander",
+        "aipom"
+      ],
+      "team2": [
+        "altaria",
+        "pikachu"
+      ],
+      "result": "It's a tie!",
+      "date": "4/25/2025, 4:59:53 AM"
+    },
+    {
+      "id": "aec8",
+      "team1": [
+        "charmander",
+        "aipom",
+        "altaria"
+      ],
+      "team2": [
+        "pikachu",
+        "pikachu"
+      ],
+      "result": "It's a tie!",
+      "date": "4/25/2025, 5:08:57 AM"
+    },
+    {
+      "id": "6a3c",
+      "team1": [
+        "charmander",
+        "aipom",
+        "altaria"
+      ],
+      "team2": [
+        "pikachu",
+        "pikachu"
+      ],
+      "result": "It's a tie!",
+      "date": "4/25/2025, 5:08:59 AM"
+    },
+    {
+      "id": "fb14",
+      "team1": [
+        "charmander",
+        "aipom",
+        "altaria"
+      ],
+      "team2": [
+        "pikachu",
+        "pikachu"
+      ],
+      "result": "It's a tie!",
+      "date": "4/25/2025, 5:11:23 AM"
+    },
+    {
+      "id": "79b9",
+      "team1": [
+        "charmander",
+        "aipom",
+        "altaria"
+      ],
+      "team2": [
+        "pikachu",
+        "pikachu"
+      ],
+      "result": "It's a tie!",
+      "date": "4/25/2025, 5:11:24 AM"
+    },
+    {
+      "id": "0591",
+      "team1": [
+        "charmander",
+        "aipom",
+        "altaria"
+      ],
+      "team2": [
+        "pikachu",
+        "pikachu"
+      ],
+      "result": "It's a tie!",
+      "date": "4/25/2025, 5:11:35 AM"
+    },
+    {
+      "id": "5c56",
+      "team1": [
+        "pikachu"
+      ],
+      "team2": [
+        "abra"
+      ],
+      "result": "Team 1",
+      "date": "4/25/2025, 5:47:50 AM"
+    },
+    {
+      "id": "1503",
+      "team1": [
+        "pikachu"
+      ],
+      "team2": [
+        "abra"
+      ],
+      "result": "Team 1",
+      "date": "4/25/2025, 5:51:36 AM"
+    },
+    {
+      "id": "7c54",
+      "team1": [
+        "pikachu"
+      ],
+      "team2": [
+        "charmander"
+      ],
+      "result": "Team 1",
+      "date": "4/25/2025, 11:20:49 AM"
+    }
+  ],
+  "battleHistory": [
+    {
+      "id": "fdf9",
+      "date": "2025-04-25T06:18:05.940Z",
+      "final": "You Lose!",
+      "rounds": [
+        {
+          "pokemon": "bulbasaur",
+          "opponent": "beedrill",
+          "result": "Lose"
+        },
+        {
+          "pokemon": "charmander",
+          "opponent": "lapras",
+          "result": "Lose"
+        },
+        {
+          "pokemon": "charizard",
+          "opponent": "vileplume",
+          "result": "Win"
+        }
+      ],
+      "totalWins": 1,
+      "totalLosses": 2
+    },
+    {
+      "id": "bd38",
+      "date": "2025-04-25T06:23:24.888Z",
+      "final": "You Win!",
+      "rounds": [
+        {
+          "pokemon": "bulbasaur",
+          "opponent": "venonat",
+          "result": "Lose"
+        },
+        {
+          "pokemon": "charmander",
+          "opponent": "krabby",
+          "result": "Win"
+        },
+        {
+          "pokemon": "charizard",
+          "opponent": "goldeen",
+          "result": "Win"
+        }
+      ],
+      "totalWins": 2,
+      "totalLosses": 1
+    }
+  ]
+}
